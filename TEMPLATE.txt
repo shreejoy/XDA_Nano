@@ -1,0 +1,60 @@
+[CENTER][IMG="logo"]https://i.imgur.com/fY9nosx.png[/IMG]
+[CODE]/*
+ * Your warranty is now void.
+ * 
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you./[/CODE]
+[B] [SIZE="3"]Read the whole OP! Be respectful to each other and don't ask for ETAs, it's considered as being rude![/SIZE][/B]
+
+
+[IMG="ABOUTUS"]https://i.imgur.com/ZTY3OvW.png[/IMG]
+
+[B][SIZE="3"]Nano kernel a small project started by Shreejoy Dash a.k.a AndroidPie9 . Which aims to keep the simplicity , but have the simplicity in a smarter way , so that it can deliver true power to your device which it deserves to have , so we have a small tag line linked to our name that is Simple . Smart . Powerful . This project will try to win all your hearts with its great performance. Hope you like the small attempt to the next big thing for your device . [/SIZE] [/B]
+
+
+[IMG="features"]https://i.imgur.com/hILPATL.png[/IMG]
+
+[CODE][B]
+[/B][/CODE]
+
+
+[IMG="downloads"]https://i.imgur.com/xcsTIc6.png[/IMG]
+
+[B][SIZE="3"]Stable releases are yet to come, If you are willing to try this out then try some beta[/SIZE]'s[/B]
+[SIZE="2"](The upper download links are the latest and as you go down the older links appear)[/SIZE]
+
+
+[IMG="instructions"]https://i.imgur.com/KGnzM3H.png[/IMG]
+
+[CODE]
+[B][SIZE="3"]- Download the zip to your internal.
+- Reboot to your installed recovery.
+- Search for the kernel zip your downloaded
+- Select on it and flash (it will be installed in 10-30 secs)
+- Then reboot[/SIZE][/B]
+[/CODE]
+
+[IMG="changelogs"]https://github.com/shreejoy/XDA_Nano/blob/master/Changelogs.png?raw=true[/IMG]
+
+[CODE][SIZE="3"][B]Comming soon get ready...[/B][/SIZE][/CODE]
+
+[IMG]https://i.imgur.com/YMjiTR4.png[/IMG]
+
+[CODE][SIZE="3"][B]Any announcement releted to this kernel will be mentioned here so stay updated with this part of the thread to be updated with this kernel[/B][/SIZE][/CODE]
+
+[IMG]https://i.imgur.com/0jlR9nE.png[/IMG]
+[B][SIZE="3"]So here it comes the most important part where many people who were directly involved in making this thing possible.[/SIZE][/B]
+[CODE][B]- Me because I made it
+- @Revantht and @aragon12 for there sources and support
+- Google
+- CodeAurora Forum
+- Shivam Jadon for making the TWRP UI Print 
+- Rosy community for being honest users of every single work
+- Haran and Murali for giving the new life to Rosy
+- And many more peoples are involved.[/B][/CODE]
+
+[B]THREAD TO BE UPDATED REGULARLY WITH REQUIRED INFORMATIONS[/B]
+[/CENTER]

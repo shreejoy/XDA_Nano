@@ -1,4 +1,4 @@
-[CENTER][IMG="logo"]https://i.imgur.com/fY9nosx.png[/IMG]
+[CENTER][IMG="logo"]https://i.imgur.com/VmMFYnI.png[/IMG]
 [CODE]/*
  * Your warranty is now void.
  * 
@@ -10,42 +10,63 @@
 [B] [SIZE="3"]Read the whole OP! Be respectful to each other and don't ask for ETAs, it's considered as being rude![/SIZE][/B]
 
 
-[IMG="ABOUTUS"]https://i.imgur.com/ZTY3OvW.png[/IMG]
+[IMG="ABOUTUS"]https://i.imgur.com/usMcJzM.jpg[/IMG]
 
-[B][SIZE="3"]Nano kernel a small project started by Shreejoy Dash a.k.a AndroidPie9 . Which aims to keep the simplicity , but have the simplicity in a smarter way , so that it can deliver true power to your device which it deserves to have , so we have a small tag line linked to our name that is Simple . Smart . Powerful . This project will try to win all your hearts with its great performance. Hope you like the small attempt to the next big thing for your device . [/SIZE] [/B]
+[B][SIZE="3"]Nano kernel a small project started by Shreejoy Dash a.k.a AndroidPie9 . Which aims to maintain the simplicity of the kernel in a smarter way which can help your device to boost its power, In shorter words our aim is to keep this kernel Simple . Smart . Powerful . This project will try to win all your hearts with its great performance boost . Hope you like the small attempt to the next big thing for your device . [/SIZE] [/B]
 
 
-[IMG="features"]https://i.imgur.com/hILPATL.png[/IMG]
+[IMG="features"]https://i.imgur.com/uRuJUO2.jpg[/IMG]
 
 [CODE][B]
 [/B][/CODE]
 
 
-[IMG="downloads"]https://i.imgur.com/xcsTIc6.png[/IMG]
+[IMG="downloads"]https://i.imgur.com/tXUUClB.jpg[/IMG]
 
 [B][SIZE="3"]Stable releases are yet to come, If you are willing to try this out then try some beta[/SIZE]'s[/B]
 [SIZE="2"](The upper download links are the latest and as you go down the older links appear)[/SIZE]
 
 
-[IMG="instructions"]https://i.imgur.com/KGnzM3H.png[/IMG]
+[IMG="instructions"]https://i.imgur.com/SImE8mH.jpg[/IMG]
 
 [CODE]
-[B][SIZE="3"]- Download the zip to your internal.
+- Download the zip to your internal.
 - Reboot to your installed recovery.
 - Search for the kernel zip your downloaded
 - Select on it and flash (it will be installed in 10-30 secs)
-- Then reboot[/SIZE][/B]
+- Then reboot
 [/CODE]
 
-[IMG="changelogs"]https://github.com/shreejoy/XDA_Nano/blob/master/Changelogs.png?raw=true[/IMG]
+[IMG="changelogs"]https://i.imgur.com/INYmUKJ.jpg[/IMG]
 
-[CODE][SIZE="3"][B]Comming soon get ready...[/B][/SIZE][/CODE]
+[CODE]
+- Added fast charge
+- Added KCal display control support
+- Upstream kernel to 3.18.137 linux stable (released on 23/03/19)
+- Merge CAF tag LA.UM.7.6.r1-04300-89xx.0  
+- Used base kernel by @Revanth and @aragon12
+- Fix charging issues in base kernel
+[/CODE]
 
-[IMG]https://i.imgur.com/YMjiTR4.png[/IMG]
+[IMG]https://i.imgur.com/h95PKtG.jpg[/IMG]
 
-[CODE][SIZE="3"][B]Any announcement releted to this kernel will be mentioned here so stay updated with this part of the thread to be updated with this kernel[/B][/SIZE][/CODE]
+[CODE][SIZE="3"]
+[B]#24March19[/B]
+- This kernel will have 12 betas before stable releases
+- Every beta will have some new features to include 
+- Also you guys can request features to be added , If its worth to add then i will add it
+[/SIZE][/CODE]
 
-[IMG]https://i.imgur.com/0jlR9nE.png[/IMG]
+[IMG="links"]https://i.imgur.com/kO7kYm6.jpg[/IMG]
+
+[URL="https://github.com/shreejoy"]My github [/URL]
+[URL="https://t.me/AndroidPie9"]My telegram [/URL]
+[URL="https://github.com/Revanth/kernel_xiaomi_sdm450/"]Base kernel sources[/URL]
+[URL="https://t.me/redmi5official"]Redmi 5 Official TG group[/URL]
+[URL="https://t.me/redmi5news"]Redmi 5 official Channel [TG][/URL]
+[URL="https://t.me/xiaomichannelpro"]Xiaomi Channel Pro [My channel partner] [/URL]
+
+[IMG]https://i.imgur.com/25Sg15h.jpg[/IMG]
 [B][SIZE="3"]So here it comes the most important part where many people who were directly involved in making this thing possible.[/SIZE][/B]
 [CODE][B]- Me because I made it
 - @Revantht and @aragon12 for there sources and support
